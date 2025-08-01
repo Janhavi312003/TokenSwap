@@ -34,7 +34,8 @@ const Footer = () => {
         
         <div className="border-t border-gray-700 mt-8 pt-6 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 SwapDApp. Built with React, Vite, and Tailwind CSS.
+            © 2025 SwapDApp. Built with React, Vite, and Tailwind CSS.
+            All Rights are Reserved By Janhavi.
           </p>
         </div>
       </div>
