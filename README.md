@@ -92,23 +92,23 @@ cd TokenSwap
 ```bash
 npm install
 ```
-## Compile Smart Contracts
+### Compile Smart Contracts
 ```bash
 npx hardhat compile
 ```
-## Run Tests
+### Run Tests
 ```bash
 npx hardhat test
 ```
-## Start Local Hardhat Node
+### Start Local Hardhat Node
 ```bash
 npx hardhat node
 ```
-## Deploy Smart Contracts
+### Deploy Smart Contracts
 ```bash
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
-## Run Frontend
+### Run Frontend
 ```bash
 npm run dev
 ```
@@ -116,9 +116,13 @@ npm run dev
 ### Open:
 
 http://localhost:3000
+---
+
 ## Deployment
-Smart contracts deployed on Ethereum-compatible testnet
-Frontend deployed on Vercel
+
+- Smart contracts deployed on Ethereum-compatible testnet
+- Frontend deployed on Vercel
+---
 ### Live Demo
 
 token-swap-71xu-ef9naoxoc-janhavis-projects-94ce3bb4.vercel.app
