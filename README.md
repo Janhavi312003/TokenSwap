@@ -112,7 +112,6 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```bash
 npm run dev
 ```
----
 ### Open:
 ```bash
 http://localhost:3000
