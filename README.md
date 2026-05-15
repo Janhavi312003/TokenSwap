@@ -114,8 +114,9 @@ npm run dev
 ```
 ---
 ### Open:
-
+```bash
 http://localhost:3000
+```
 ---
 
 ## Deployment
@@ -123,7 +124,7 @@ http://localhost:3000
 - Smart contracts deployed on Ethereum-compatible testnet
 - Frontend deployed on Vercel
 ---
-### Live Demo
+## Live Demo
 
 token-swap-71xu-ef9naoxoc-janhavis-projects-94ce3bb4.vercel.app
 ---
